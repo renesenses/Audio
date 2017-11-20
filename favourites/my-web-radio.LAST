@@ -1,0 +1,181 @@
+[
+{
+"service": "webradio",
+"name": "France Musique | La Jazz",
+"uri": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3"
+},
+{
+"service": "webradio",
+"name": "TSF JAZZ",
+"uri": "http://statslive.infomaniak.ch/playlist/tsfjazz/tsfjazz-high.mp3/playlist.pls"
+},
+{
+"service": "webradio",
+"name": "France Musique | La Contemporaine",
+"uri": "http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3"
+},
+{
+"service": "webradio",
+"name": "Franceinfo",
+"uri": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+},
+{
+"name": "France Culture",
+"uri": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+},
+{
+"service": "webradio",
+"name": "FIP",
+"uri": "http://direct.fipradio.fr/live/fip-midfi.mp3"
+},
+{
+"service": "webradio",
+"name": "Radio Nova",
+"uri": "http://radionova.ice.infomaniak.ch/radionova-high.mp3"
+},
+{
+"service": "webradio",
+"name": "RTBF Classic 21",
+"uri": "http://classic21.ice.rtbf.be/classic21-128.mp3"
+},
+{
+"service": "webradio",
+"name": "RTBF PureFM",
+"uri": "http://purefm.ice.rtbf.be/purefm-128.mp3"
+},
+{
+"service": "webradio",
+"name": "RTBF La Première",
+"uri": "http://lapremiere.ice.rtbf.be/lapremiere-128.mp3"
+},
+{
+"service": "webradio",
+"name": "RTBF Vivacité Liège",
+"uri": "http://vivaciteliege.ice.rtbf.be/vivaliege-128.mp3"
+},
+{
+"service": "webradio",
+"name": "RTBF Musiq'3",
+"uri": "http://musiq3.ice.rtbf.be/musiq3-128.mp3"
+},
+{
+"service": "webradio",
+"name": "France Inter",
+"uri": "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
+},
+{
+"service": "webradio",
+"name": "Bel RTL",
+"uri": "http://audiostream.rtl.be/belrtl128"
+},
+{
+"service": "webradio",
+"name": "DH Radio",
+"uri": "http://dhradio.ice.infomaniak.ch/dhradio-192.mp3"
+},
+{
+"service": "webradio",
+"name": "Fun Radio",
+"uri": "http://live.funradio.be/funradiobe-high.mp3"
+},
+{
+"service": "webradio",
+"name": "NRJ",
+"uri": "http://stream.nrj.be/nrjbe-player.mp3"
+},
+{
+"service": "webradio",
+"name": "Nostlagie",
+"uri": "http://nostalgiepremium.ice.infomaniak.ch/nostalgiepremium-128.mp3"
+},
+{
+"service": "webradio",
+"name": "Radio Contact",
+"uri": "http://audiostream.rtl.be/contactfr192"
+},
+{
+"service": "webradio",
+"name": "Radio Contact Eupen",
+"uri": "http://radio-contact.dh-media.net:7000/;"
+},
+{
+"service": "webradio",
+"name": "Fantasy Dance FM",
+"uri": "http://fantasy967.de/playlist/HQ.pls"
+},
+{
+"service": "webradio",
+"name": "VRT Radio 1",
+"uri": "http://mp3.streampower.be/radio1.aac"
+},
+{
+"service": "webradio",
+"name": "RDS",
+"uri": "http://www.rds.it:8000/stream"
+},
+{
+"service": "webradio",
+"name": "M2O",
+"uri": "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
+},
+{
+"service": "webradio",
+"name": "RAI 1",
+"uri": "http://icestreaming.rai.it/1.mp3"
+},
+{
+"service": "webradio",
+"name": "RAI 5 Classica",
+"uri": "http://icestreaming.rai.it/5.mp3"
+},
+{
+"service": "webradio",
+"name": "Radio Deejay",
+"uri": "http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8"
+},
+{
+"service": "webradio",
+"name": "VRT Radio 2 Antwerpen",
+"uri": "http://mp3.streampower.be/ra2ant.aac"
+},
+{
+"service": "webradio",
+"name": "VRT Radio 2 Limburg",
+"uri": "http://mp3.streampower.be/ra2lim.aac"
+},
+{
+"service": "webradio",
+"name": "Radio Hitalia",
+"uri": "http://wma02.fluidstream.net:8130"
+},
+{
+"service": "webradio",
+"name": "100,5",
+"uri": "http://dashitradio-mp3-8000.skydisc.net:8000/dashitradio-live.mp3"
+},
+{
+"service": "webradio",
+"name": "BRF 1",
+"uri": "http://streaming.brf.be/brf1-high.mp3"
+},
+{
+"service": "webradio",
+"name": "BRF 2",
+"uri": "http://streaming.brf.be/brf2-high.mp3"
+},
+{
+"service": "webradio",
+"name": "VRT Studio Brussel",
+"uri": "http://mp3.streampower.be/stubru.aac"
+},
+{
+"service": "webradio",
+"name": "VRT Klara",
+"uri": "http://mp3.streampower.be/klara.aac"
+},
+{
+"service": "webradio",
+"name": "VRT MNM",
+"uri": "http://mp3.streampower.be/mnm.aac"
+}
+]
